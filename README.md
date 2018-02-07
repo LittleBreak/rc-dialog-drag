@@ -10,7 +10,7 @@ react dialog component
 [![npm download][download-image]][download-url]
 
 [npm-image]: http://img.shields.io/npm/v/rc-dialog.svg?style=flat-square
-[npm-url]: http://npmjs.org/package/rc-dialog
+[npm-url]: http://npmjs.org/package/rc-dialog-drag
 [travis-image]: https://img.shields.io/travis/react-component/dialog.svg?style=flat-square
 [travis-url]: https://travis-ci.org/react-component/dialog
 [coveralls-image]: https://img.shields.io/coveralls/react-component/dialog.svg?style=flat-square
@@ -20,7 +20,7 @@ react dialog component
 [node-image]: https://img.shields.io/badge/node.js-%3E=_0.10-green.svg?style=flat-square
 [node-url]: http://nodejs.org/download/
 [download-image]: https://img.shields.io/npm/dm/rc-dialog.svg?style=flat-square
-[download-url]: https://npmjs.org/package/rc-dialog
+[download-url]: https://npmjs.org/package/rc-dialog-drag
 
 ## Screenshot
 
