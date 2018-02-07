@@ -186,16 +186,29 @@ ReactDOM.render(
           <td>called when close animation end</td>
       </tr>
       <tr>
-          <td>getContainer</td>
-          <td>function(): HTMLElement</td>
+          <td>appendDOM</td>
+          <td>string</td>
           <td></td>
-          <td>to determine where Dialog will be mounted</td>
+          <td>modal mount container element id</td>
       </tr>
       <tr>
           <td>destroyOnClose</td>
           <td>Boolean</td>
           <td>false</td>
           <td>to unmount child compenents on onClose</td>
+      </tr>
+            <tr>
+          <td>draggable</td>
+          <td>Boolean</td>
+          <td>true</td>
+          <td>whether drag modal to move</td>
+      </tr>
+      </tr>
+            <tr>
+          <td>bounds</td>
+          <td>any</td>
+          <td>{}</td>
+          <td>modal drag bounds</td>
       </tr>
     </tbody>
 </table>
@@ -232,3 +245,5 @@ open coverage/ dir
 ## License
 
 rc-dialog is released under the MIT license.
+
+> 本项目从 https://github.com/react-component/dialog fork，修改了部分代码，使弹层实现了拖拽功能。
