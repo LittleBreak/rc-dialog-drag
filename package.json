@@ -9,14 +9,14 @@
     "dialog",
     "ui"
   ],
-  "homepage": "http://github.com/react-component/dialog",
-  "author": "yiminghe@gmail.com",
+  "homepage": "https://github.com/LittleBreak/rc-dialog-drag",
+  "author": "caizongding@gmail.com",
   "repository": {
     "type": "git",
-    "url": "git@github.com:react-component/dialog.git"
+    "url": "git@github.com:LittleBreak/rc-dialog-drag.git"
   },
   "bugs": {
-    "url": "http://github.com/react-component/dialog/issues"
+    "url": "https://github.com/LittleBreak/rc-dialog-drag/issues"
   },
   "licenses": "MIT",
   "files": [
