@@ -33,6 +33,8 @@ interface IDialogPropTypes {
   bodyProps?: any;
   maskProps?: any;
   wrapProps?: any;
+  bounds?: any;
+  draggable?: boolean;
 }
 
 export default IDialogPropTypes;
