@@ -1,4 +1,4 @@
-# rc-dialog
+# rc-dialog-drag
 ---
 
 react dialog component
